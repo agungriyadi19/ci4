@@ -35,7 +35,7 @@ class Database extends Config
         'hostname' => 'localhost',
         'username' => 'root',
         'password' => '',
-        'database' => 'ci',
+        'database' => 'dev_test114',
         'DBDriver' => 'MySQLi',
         'DBPrefix' => '',
         'pConnect' => false,
